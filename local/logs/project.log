@@ -1,0 +1,113 @@
+2021-08-16 15:42:48-warn: [Window] The vm module of Node.js is deprecated in the renderer process and will be removed.
+2021-08-16 15:42:48-warn: [Window] The vm module of Node.js is deprecated in the renderer process and will be removed.
+2021-08-16 15:42:48-log: [Package] menu@1.0.0 enable
+2021-08-16 15:42:48-log: [Package] profile@1.0.0 enable
+2021-08-16 15:42:48-log: [Package] messages@1.0.0 enable
+2021-08-16 15:42:48-log: [Package] program@1.0.0 enable
+2021-08-16 15:42:48-log: [Package] device@1.0.1 enable
+2021-08-16 15:42:48-log: [Package] ui-kit@1.0.1 enable
+2021-08-16 15:42:48-log: [Package] tester@1.0.0 enable
+2021-08-16 15:42:49-log: [Package] preferences@1.0.0 enable
+2021-08-16 15:42:49-log: Start Quick Compile
+2021-08-16 15:42:49-log: QuickCompiler:Compile target 0: 33.859ms
+2021-08-16 15:42:49-log: QuickCompiler:Compile target 1: 12.144ms
+2021-08-16 15:42:49-log: Quick Compile: 78ms
+2021-08-16 15:42:49-log: Setup mods mgr.: 202.945ms
+2021-08-16 15:42:49-log: [Package] engine@1.0.5 enable
+2021-08-16 15:42:52-log: [Package] programming@1.0.0 enable
+2021-08-16 15:42:52-log: [Package] asset-db@1.0.0 enable
+2021-08-16 15:42:52-log: [Package] console@1.0.0 enable
+2021-08-16 15:42:52-log: [Package] scene@1.0.0 enable
+2021-08-16 15:42:52-log: [Package] project@1.0.1 enable
+2021-08-16 15:42:52-log: [Package] about@1.0.0 enable
+2021-08-16 15:42:52-log: [Package] server@1.0.0 enable
+2021-08-16 15:42:52-log: [Package] utils@1.0.0 enable
+2021-08-16 15:42:52-log: [Package] assets@1.0.0 enable
+2021-08-16 15:42:52-log: [Package] inspector@1.0.0 enable
+2021-08-16 15:42:52-log: [Package] hierarchy@1.0.0 enable
+2021-08-16 15:42:54-log: [Package] preview@1.0.1 enable
+2021-08-16 15:42:52-warn: [Asset DB] The vm module of Node.js is deprecated in the renderer process and will be removed.
+2021-08-16 15:42:54-log: [Package] animator@1.0.0 enable
+2021-08-16 15:42:54-log: [Package] builder@1.2.8 enable
+2021-08-16 15:42:54-log: [Package] node-library@1.0.0 enable
+2021-08-16 15:42:54-log: [Package] shortcuts@1.0.1 enable
+2021-08-16 15:42:54-log: [Package] importer@1.0.0 enable
+2021-08-16 15:42:54-log: [Package] package-asset@1.0.0 enable
+2021-08-16 15:42:54-log: [Package] reference-image@1.0.0 enable
+2021-08-16 15:42:54-log: [Package] channel-upload-tools@1.0.0 enable
+2021-08-16 15:42:54-log: [Package] runtime-dev-tools@1.0.0 enable
+2021-08-16 15:42:54-log: [Package] alipay-mini-game@1.0.0 enable
+2021-08-16 15:42:54-log: [Package] android@1.0.0 enable
+2021-08-16 15:42:54-log: [Package] baidu-mini-game@1.0.0 enable
+2021-08-16 15:42:54-log: [Package] bytedance-mini-game@1.0.0 enable
+2021-08-16 15:42:54-log: [Package] huawei-agc@1.0.0 enable
+2021-08-16 15:42:54-log: [Package] ios@1.0.0 enable
+2021-08-16 15:42:54-log: [Package] ios-app-clip@1.0.0 enable
+2021-08-16 15:42:54-log: [Package] mac@1.0.0 enable
+2021-08-16 15:42:55-log: [Package] native@1.0.0 enable
+2021-08-16 15:42:55-log: [Package] ohos@1.0.0 enable
+2021-08-16 15:42:55-log: [Package] web-desktop@1.0.0 enable
+2021-08-16 15:42:55-log: [Package] web-mobile@1.0.0 enable
+2021-08-16 15:42:55-log: [Package] wechatgame@1.0.0 enable
+2021-08-16 15:42:55-log: [Package] windows@1.0.0 enable
+2021-08-16 15:42:55-log: [Package] xiaomi-quick-game@1.0.0 enable
+2021-08-16 15:42:55-log: [Package] cocos-service@3.0.1 enable
+2021-08-16 15:42:55-log: [Package] extension@3.0.8 enable
+2021-08-16 15:42:56-log: [Package] im-plugin@3.0.5 enable
+2021-08-16 15:42:55-warn: [Asset DB] Please specifiy a default value for "cc._internal.migrate-animation_clip-3-3-0.Helper.duration" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2021-08-16 15:42:55-warn: [Asset DB] Please specifiy a default value for "cc._internal.migrate-animation_clip-3-3-0.Helper._keys" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2021-08-16 15:42:55-warn: [Asset DB] Please specifiy a default value for "cc._internal.migrate-animation_clip-3-3-0.Helper._curves" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2021-08-16 15:42:55-warn: [Asset DB] Please specifiy a default value for "cc._internal.migrate-animation_clip-3-3-0.Helper._commonTargets" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2021-08-16 15:42:56-log: [Package] lightmap@1.0.2 enable
+2021-08-16 15:42:56-log: [Scene] begin init
+2021-08-16 15:42:56-log: [Scene] require engine end
+2021-08-16 15:42:56-log: [Scene] Serialize end
+2021-08-16 15:42:56-log: [Scene] configureStartup end
+2021-08-16 15:42:56-info: [Scene] WebGL2 device initialized.
+2021-08-16 15:42:56-log: [Scene] Cocos Creator v3.3.0
+2021-08-16 15:42:56-info: [Scene] Forward render pipeline initialized.
+2021-08-16 15:42:56-log: [Scene] openEngine end
+2021-08-16 15:42:56-log: [Scene] configureEngine end
+2021-08-16 15:42:54-warn: [Build] The vm module of Node.js is deprecated in the renderer process and will be removed.
+2021-08-16 15:43:05-warn: [Window] The vm module of Node.js is deprecated in the renderer process and will be removed.
+2021-08-16 15:43:09-log: [Scene] begin init
+2021-08-16 15:43:09-log: [Scene] require engine end
+2021-08-16 15:43:09-log: [Scene] Serialize end
+2021-08-16 15:43:09-log: [Scene] configureStartup end
+2021-08-16 15:43:09-info: [Scene] WebGL2 device initialized.
+2021-08-16 15:43:09-log: [Scene] Cocos Creator v3.3.0
+2021-08-16 15:43:09-info: [Scene] Forward render pipeline initialized.
+2021-08-16 15:43:09-log: [Scene] openEngine end
+2021-08-16 15:43:09-log: [Scene] configureEngine end

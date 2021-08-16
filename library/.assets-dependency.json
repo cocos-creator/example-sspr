@@ -1,0 +1,152 @@
+{
+  "uuid": {
+    "C:\\Users\\linsh\\Desktop\\NewProject\\assets\\sspr\\pond.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\linsh\\Desktop\\NewProject\\assets\\sspr\\pondwater.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\linsh\\Desktop\\NewProject\\assets\\sspr\\sspr.mtl": [
+      "99498f84-efe6-43a6-a9a7-e6e93eb845c1"
+    ],
+    "E:\\sspr_pond\\assets\\cube-maps\\pond.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\cube-maps\\pond_water.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\sspr.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "99498f84-efe6-43a6-a9a7-e6e93eb845c1"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\YANGBI\\yanbi.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\dongku\\pond.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\dongku\\pond_water.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "a9cba211-1fc9-419c-a541-75ca895da186"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\dongku\\water\\water.mtl": [
+      "a9cba211-1fc9-419c-a541-75ca895da186",
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\YANGBI\\yanbi-001.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\YANGBI\\台阶.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\YANGBI\\taijie.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\snow\\taijie.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\YANGBI\\taijie-001.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\snow\\taijie-001.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\snow\\snow.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\binzhu\\taijie-001.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\binzhu\\binzhu.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\snow\\snow - 副本.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\snow\\snow2.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\shiban\\taijie-001.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\shiban\\shiban.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\YANGBI\\yiji.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\yiji\\yiji.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\yiji\\yiji-001.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\yiji\\yiji2.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\yiji2.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\yiji2\\yiji2.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\yiji2\\yiji3.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\yiji3\\yiji3.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\yiji3\\yiji4.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\yiji4\\yiji4.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\yiji4\\yiji5.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\sspr_pond\\assets\\sspr\\texture_DONGKU\\yiji5\\yiji5.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ]
+  },
+  "path": {
+    "E:\\sspr_pond\\assets\\sspr\\dongku\\water\\water002.effect": [
+      "D:\\editor-3d\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-vs.chunk",
+      "D:\\editor-3d\\resources\\3d\\engine\\editor\\assets\\chunks\\input-standard.chunk",
+      "D:\\editor-3d\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-standard.chunk",
+      "D:\\editor-3d\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-base.chunk",
+      "D:\\editor-3d\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\editor-3d\\resources\\3d\\engine\\editor\\assets\\chunks\\morph.chunk",
+      "D:\\editor-3d\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\editor-3d\\resources\\3d\\engine\\editor\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\editor-3d\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\editor-3d\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local-batch.chunk",
+      "D:\\editor-3d\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\editor-3d\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-vs.chunk",
+      "D:\\editor-3d\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-base.chunk",
+      "D:\\editor-3d\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-fs.chunk",
+      "D:\\editor-3d\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "D:\\editor-3d\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "D:\\editor-3d\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-fs.chunk",
+      "D:\\editor-3d\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-environment.chunk",
+      "E:\\sspr_pond\\assets\\chunks\\unlit-vs.chunk",
+      "E:\\sspr_pond\\assets\\chunks\\input-standard.chunk",
+      "E:\\sspr_pond\\assets\\chunks\\decode-standard.chunk",
+      "E:\\sspr_pond\\assets\\chunks\\decode-base.chunk",
+      "E:\\sspr_pond\\assets\\chunks\\common.chunk",
+      "E:\\sspr_pond\\assets\\chunks\\morph.chunk",
+      "E:\\sspr_pond\\assets\\chunks\\cc-skinning.chunk",
+      "E:\\sspr_pond\\assets\\chunks\\skinning-lbs.chunk",
+      "E:\\sspr_pond\\assets\\chunks\\cc-global.chunk",
+      "E:\\sspr_pond\\assets\\chunks\\cc-local-batch.chunk",
+      "E:\\sspr_pond\\assets\\chunks\\cc-local.chunk",
+      "E:\\sspr_pond\\assets\\chunks\\cc-fog-vs.chunk",
+      "E:\\sspr_pond\\assets\\chunks\\cc-fog-base.chunk",
+      "E:\\sspr_pond\\assets\\chunks\\unlit-fs.chunk",
+      "E:\\sspr_pond\\assets\\chunks\\output.chunk",
+      "E:\\sspr_pond\\assets\\chunks\\gamma.chunk",
+      "E:\\sspr_pond\\assets\\chunks\\cc-fog-fs.chunk",
+      "E:\\sspr_pond\\assets\\chunks\\cc-environment.chunk"
+    ]
+  }
+}

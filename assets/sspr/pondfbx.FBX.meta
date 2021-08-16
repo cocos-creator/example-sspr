@@ -1,0 +1,994 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff",
+  "files": [],
+  "subMetas": {
+    "12499": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@12499",
+      "displayName": "",
+      "id": "12499",
+      "name": "对象013.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "13560": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@13560",
+      "displayName": "",
+      "id": "13560",
+      "name": "对象017.mesh",
+      "userData": {
+        "gltfIndex": 22
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "20943": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@20943",
+      "displayName": "",
+      "id": "20943",
+      "name": "对象014.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "64434": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@64434",
+      "displayName": "",
+      "id": "64434",
+      "name": "DrawCall_0279_014.mesh",
+      "userData": {
+        "gltfIndex": 41
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "69059": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@69059",
+      "displayName": "",
+      "id": "69059",
+      "name": "DrawCall_0279_003.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "83080": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@83080",
+      "displayName": "",
+      "id": "83080",
+      "name": "对象022.mesh",
+      "userData": {
+        "gltfIndex": 21
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8926f": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@8926f",
+      "displayName": "",
+      "id": "8926f",
+      "name": "对象008.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ba8b7": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@ba8b7",
+      "displayName": "",
+      "id": "ba8b7",
+      "name": "DrawCall_0279_002.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3ae19": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@3ae19",
+      "displayName": "",
+      "id": "3ae19",
+      "name": "DrawCall_0279_001.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "58c06": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@58c06",
+      "displayName": "",
+      "id": "58c06",
+      "name": "对象009.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4c651": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@4c651",
+      "displayName": "",
+      "id": "4c651",
+      "name": "对象010.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ac38d": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@ac38d",
+      "displayName": "",
+      "id": "ac38d",
+      "name": "对象011.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3ec26": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@3ec26",
+      "displayName": "",
+      "id": "3ec26",
+      "name": "对象012.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bc9de": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@bc9de",
+      "displayName": "",
+      "id": "bc9de",
+      "name": "对象015.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cc65e": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@cc65e",
+      "displayName": "",
+      "id": "cc65e",
+      "name": "Line003.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2f648": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@2f648",
+      "displayName": "",
+      "id": "2f648",
+      "name": "Line002.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5a9a3": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@5a9a3",
+      "displayName": "",
+      "id": "5a9a3",
+      "name": "对象019.mesh",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c14ca": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@c14ca",
+      "displayName": "",
+      "id": "c14ca",
+      "name": "对象023.mesh",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b3133": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@b3133",
+      "displayName": "",
+      "id": "b3133",
+      "name": "对象018.mesh",
+      "userData": {
+        "gltfIndex": 15
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "486c8": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@486c8",
+      "displayName": "",
+      "id": "486c8",
+      "name": "对象020.mesh",
+      "userData": {
+        "gltfIndex": 16
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "412aa": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@412aa",
+      "displayName": "",
+      "id": "412aa",
+      "name": "对象025.mesh",
+      "userData": {
+        "gltfIndex": 17
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6c61e": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@6c61e",
+      "displayName": "",
+      "id": "6c61e",
+      "name": "对象024.mesh",
+      "userData": {
+        "gltfIndex": 18
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0c86": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@f0c86",
+      "displayName": "",
+      "id": "f0c86",
+      "name": "对象016.mesh",
+      "userData": {
+        "gltfIndex": 19
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "68c57": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@68c57",
+      "displayName": "",
+      "id": "68c57",
+      "name": "对象021.mesh",
+      "userData": {
+        "gltfIndex": 20
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "91d54": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@91d54",
+      "displayName": "",
+      "id": "91d54",
+      "name": "对象027.mesh",
+      "userData": {
+        "gltfIndex": 23
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2c996": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@2c996",
+      "displayName": "",
+      "id": "2c996",
+      "name": "对象026.mesh",
+      "userData": {
+        "gltfIndex": 24
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2e5b": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@d2e5b",
+      "displayName": "",
+      "id": "d2e5b",
+      "name": "DrawCall_0279_006.mesh",
+      "userData": {
+        "gltfIndex": 25
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3b012": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@3b012",
+      "displayName": "",
+      "id": "3b012",
+      "name": "DrawCall_0279_008.mesh",
+      "userData": {
+        "gltfIndex": 26
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dbc57": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@dbc57",
+      "displayName": "",
+      "id": "dbc57",
+      "name": "DrawCall_0279_007.mesh",
+      "userData": {
+        "gltfIndex": 27
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6a34b": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@6a34b",
+      "displayName": "",
+      "id": "6a34b",
+      "name": "DrawCall_0279_009.mesh",
+      "userData": {
+        "gltfIndex": 28
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fa443": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@fa443",
+      "displayName": "",
+      "id": "fa443",
+      "name": "DrawCall_0279_004.mesh",
+      "userData": {
+        "gltfIndex": 29
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ae0e8": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@ae0e8",
+      "displayName": "",
+      "id": "ae0e8",
+      "name": "DrawCall_0279_010.mesh",
+      "userData": {
+        "gltfIndex": 30
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cc39f": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@cc39f",
+      "displayName": "",
+      "id": "cc39f",
+      "name": "DrawCall_0279_012.mesh",
+      "userData": {
+        "gltfIndex": 31
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "25f10": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@25f10",
+      "displayName": "",
+      "id": "25f10",
+      "name": "DrawCall_0279_016.mesh",
+      "userData": {
+        "gltfIndex": 32
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0fc92": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@0fc92",
+      "displayName": "",
+      "id": "0fc92",
+      "name": "Line001.mesh",
+      "userData": {
+        "gltfIndex": 33
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9496a": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@9496a",
+      "displayName": "",
+      "id": "9496a",
+      "name": "DrawCall_0279_005.mesh",
+      "userData": {
+        "gltfIndex": 34
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "15ccb": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@15ccb",
+      "displayName": "",
+      "id": "15ccb",
+      "name": "DrawCall_811.mesh",
+      "userData": {
+        "gltfIndex": 35
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "268e5": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@268e5",
+      "displayName": "",
+      "id": "268e5",
+      "name": "DrawCall_812.mesh",
+      "userData": {
+        "gltfIndex": 36
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b2cbd": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@b2cbd",
+      "displayName": "",
+      "id": "b2cbd",
+      "name": "对象006.mesh",
+      "userData": {
+        "gltfIndex": 37
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3553c": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@3553c",
+      "displayName": "",
+      "id": "3553c",
+      "name": "对象007.mesh",
+      "userData": {
+        "gltfIndex": 38
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "723c6": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@723c6",
+      "displayName": "",
+      "id": "723c6",
+      "name": "DrawCall_0279_011.mesh",
+      "userData": {
+        "gltfIndex": 39
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "825bb": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@825bb",
+      "displayName": "",
+      "id": "825bb",
+      "name": "DrawCall_0279_013.mesh",
+      "userData": {
+        "gltfIndex": 40
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1a4ee": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@1a4ee",
+      "displayName": "",
+      "id": "1a4ee",
+      "name": "DrawCall_0279_015.mesh",
+      "userData": {
+        "gltfIndex": 42
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1497d": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@1497d",
+      "displayName": "",
+      "id": "1497d",
+      "name": "对象028.mesh",
+      "userData": {
+        "gltfIndex": 43
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "63bd9": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@63bd9",
+      "displayName": "",
+      "id": "63bd9",
+      "name": "DrawCall_0279_018.mesh",
+      "userData": {
+        "gltfIndex": 44
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2e20a": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@2e20a",
+      "displayName": "",
+      "id": "2e20a",
+      "name": "DrawCall_0279_019.mesh",
+      "userData": {
+        "gltfIndex": 45
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2251": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@d2251",
+      "displayName": "",
+      "id": "d2251",
+      "name": "DrawCall_0279_020.mesh",
+      "userData": {
+        "gltfIndex": 46
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b85b1": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@b85b1",
+      "displayName": "",
+      "id": "b85b1",
+      "name": "对象031.mesh",
+      "userData": {
+        "gltfIndex": 47
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "776e2": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@776e2",
+      "displayName": "",
+      "id": "776e2",
+      "name": "DrawCall_0233.mesh",
+      "userData": {
+        "gltfIndex": 48
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a30c3": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@a30c3",
+      "displayName": "",
+      "id": "a30c3",
+      "name": "DrawCall_0271.mesh",
+      "userData": {
+        "gltfIndex": 49
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "822ab": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@822ab",
+      "displayName": "",
+      "id": "822ab",
+      "name": "对象004.mesh",
+      "userData": {
+        "gltfIndex": 50
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73d41": {
+      "importer": "gltf-mesh",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@73d41",
+      "displayName": "",
+      "id": "73d41",
+      "name": "对象003.mesh",
+      "userData": {
+        "gltfIndex": 51
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e6821": {
+      "importer": "gltf-material",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@e6821",
+      "displayName": "",
+      "id": "e6821",
+      "name": "16 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "08e81": {
+      "importer": "gltf-scene",
+      "uuid": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@08e81",
+      "displayName": "",
+      "id": "08e81",
+      "name": "pondfbx.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@08e81",
+    "assetFinder": {
+      "meshes": [
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@8926f",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@ba8b7",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@69059",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@3ae19",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@58c06",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@4c651",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@ac38d",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@12499",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@3ec26",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@bc9de",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@20943",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@cc65e",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@2f648",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@5a9a3",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@c14ca",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@b3133",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@486c8",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@412aa",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@6c61e",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@f0c86",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@68c57",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@83080",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@13560",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@91d54",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@2c996",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@d2e5b",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@3b012",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@dbc57",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@6a34b",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@fa443",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@ae0e8",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@cc39f",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@25f10",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@0fc92",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@9496a",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@15ccb",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@268e5",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@b2cbd",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@3553c",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@723c6",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@825bb",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@64434",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@1a4ee",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@1497d",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@63bd9",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@2e20a",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@d2251",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@b85b1",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@776e2",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@a30c3",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@822ab",
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@73d41"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@e6821"
+      ],
+      "scenes": [
+        "988c4acb-f8cf-4505-97a5-77d6dd24f5ff@08e81"
+      ]
+    }
+  }
+}

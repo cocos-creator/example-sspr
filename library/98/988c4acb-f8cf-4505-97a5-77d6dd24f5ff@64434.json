@@ -1,0 +1,102 @@
+{
+  "__type__": "cc.Mesh",
+  "_name": "",
+  "_objFlags": 0,
+  "_native": ".bin",
+  "_struct": {
+    "primitives": [
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          0
+        ],
+        "indexView": {
+          "offset": 12584,
+          "length": 1392,
+          "count": 348,
+          "stride": 4
+        }
+      }
+    ],
+    "vertexBundles": [
+      {
+        "view": {
+          "offset": 0,
+          "length": 12584,
+          "count": 121,
+          "stride": 104
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_tangent",
+            "format": 44,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord1",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord2",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord3",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord4",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord5",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord6",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord7",
+            "format": 21,
+            "isNormalized": false
+          }
+        ]
+      }
+    ],
+    "minPosition": {
+      "__type__": "cc.Vec3",
+      "x": -0.8790497779846191,
+      "y": -0.5251132845878601,
+      "z": -0.17052611708641052
+    },
+    "maxPosition": {
+      "__type__": "cc.Vec3",
+      "x": 0.8790497779846191,
+      "y": 0.5251132845878601,
+      "z": 0.17052611708641052
+    }
+  },
+  "_hash": 3812628992
+}

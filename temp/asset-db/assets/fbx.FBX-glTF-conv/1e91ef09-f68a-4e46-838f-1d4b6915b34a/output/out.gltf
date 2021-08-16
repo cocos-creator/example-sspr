@@ -1,0 +1,235 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3397,
+      "max": [
+        1.9209012985229492,
+        1.9209016561508179,
+        0.764436662197113
+      ],
+      "min": [
+        -1.9209015369415283,
+        -1.9209015369415283,
+        -0.08532806485891342
+      ],
+      "name": "bg_atm_border_fountain02_sm_bjh_Material0/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 3397,
+      "name": "bg_atm_border_fountain02_sm_bjh_Material0/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 3397,
+      "name": "bg_atm_border_fountain02_sm_bjh_Material0/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 32,
+      "componentType": 5126,
+      "count": 3397,
+      "name": "bg_atm_border_fountain02_sm_bjh_Material0/TEXCOORD_1",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 40,
+      "componentType": 5126,
+      "count": 3397,
+      "name": "bg_atm_border_fountain02_sm_bjh_Material0/COLOR_0",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 3498,
+      "name": "bg_atm_border_fountain02_sm_bjh_Material0/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        1.3433483839035034,
+        1.448262333869934,
+        0.4687899649143219
+      ],
+      "min": [
+        -1.3412539958953857,
+        -1.3275573253631592,
+        0.4687899649143219
+      ],
+      "name": "bg_atm_border_fountain02_sm_bjh_Material0/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 4,
+      "name": "bg_atm_border_fountain02_sm_bjh_Material0/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 4,
+      "name": "bg_atm_border_fountain02_sm_bjh_Material0/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 32,
+      "componentType": 5126,
+      "count": 4,
+      "name": "bg_atm_border_fountain02_sm_bjh_Material0/TEXCOORD_1",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 40,
+      "componentType": 5126,
+      "count": 4,
+      "name": "bg_atm_border_fountain02_sm_bjh_Material0/COLOR_0",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 6,
+      "name": "bg_atm_border_fountain02_sm_bjh_Material0/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 190232,
+      "byteStride": 56,
+      "name": "bg_atm_border_fountain02_sm_bjh_Material0",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13992,
+      "byteOffset": 190232
+    },
+    {
+      "buffer": 0,
+      "byteLength": 224,
+      "byteOffset": 204224,
+      "byteStride": 56,
+      "name": "bg_atm_border_fountain02_sm_bjh_Material0",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24,
+      "byteOffset": 204448
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 204472,
+      "uri": "out.bin"
+    }
+  ],
+  "materials": [
+    {
+      "name": "02 - Default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.29019609093666077,
+          0.13725490868091583,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.7071067690849304
+      }
+    },
+    {
+      "name": "03 - Default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.43137258291244507,
+          0.960784375667572,
+          1.0
+        ],
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.7071067690849304
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "bg_atm_border_fountain02_sm_bjh_Material0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 4,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 5,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "COLOR_0": 10,
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TEXCOORD_0": 8,
+            "TEXCOORD_1": 9
+          },
+          "indices": 11,
+          "material": 1
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "bg_atm_border_fountain02_sm_bjh",
+      "rotation": [
+        -0.7071067690849304,
+        -0.0,
+        0.0,
+        0.7071067690849304
+      ],
+      "scale": [
+        2.5399999618530273,
+        2.5399999618530273,
+        2.5399999618530273
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
