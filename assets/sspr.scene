@@ -1495,10 +1495,10 @@
   {
     "__type__": "cc.SkyboxInfo",
     "_envmap": {
-      "__uuid__": "b348c3f7-fdfc-4e4e-9f29-c2ca69226f95@b47c0",
+      "__uuid__": "ad1602b1-6e50-4f3e-b618-aa80a3e85271@b47c0",
       "__expectedType__": "cc.TextureCube"
     },
-    "_isRGBE": true,
+    "_isRGBE": false,
     "_enabled": true,
     "_useIBL": true
   },
