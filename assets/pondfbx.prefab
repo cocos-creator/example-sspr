@@ -889,6 +889,11 @@
     "asset": {
       "__id__": 0
     },
-    "fileId": "63b0RwYUBFYJqEY5H/Cqvy"
+    "fileId": "63b0RwYUBFYJqEY5H/Cqvy",
+    "nestedPrefabInstanceRoots": [
+      {
+        "__id__": 2
+      }
+    ]
   }
 ]

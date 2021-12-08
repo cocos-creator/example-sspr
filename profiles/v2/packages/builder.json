@@ -1,6 +1,93 @@
 {
-  "__version__": "1.2.8",
+  "__version__": "1.3.0",
   "log": {
     "level": 4
+  },
+  "common": {
+    "debug": true,
+    "outputName": "android",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "android",
+    "name": "sspr"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1638974176617": {
+        "id": "1638974176617",
+        "progress": 1,
+        "state": "success",
+        "message": "2021-12-8 22:48 Build success in 2627 ms!",
+        "options": {
+          "name": "sspr",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": true,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "e971bef9-215d-4290-8fed-ef1c6ec56061",
+          "scenes": [
+            {
+              "url": "db://assets/sspr.scene",
+              "uuid": "e971bef9-215d-4290-8fed-ef1c6ec56061",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android",
+          "packages": {
+            "android": {
+              "packageName": "com.cocos.sspr",
+              "orientation": {
+                "portrait": false,
+                "upsideDown": false,
+                "landscapeRight": true,
+                "landscapeLeft": true
+              },
+              "apiLevel": "android-23",
+              "appABIs": [
+                "arm64-v8a"
+              ],
+              "useDebugKeystore": true,
+              "keystorePath": "",
+              "keystorePassword": "",
+              "keystoreAlias": "",
+              "keystoreAliasPassword": "",
+              "appBundle": false,
+              "androidInstant": false,
+              "remoteUrl": "",
+              "sdkPath": "",
+              "ndkPath": "",
+              "renderBackEnd": {
+                "vulkan": false,
+                "gles3": true,
+                "gles2": false
+              }
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": false,
+              "xxteaKey": "28+subfIZKdK24PZ",
+              "compressZip": false,
+              "makeAfterBuild": false,
+              "JobSystem": "tbb"
+            },
+            "cocos-service": {
+              "configID": "3ab2cf",
+              "services": []
+            }
+          }
+        },
+        "time": "2021-12-8 22:48",
+        "dirty": false
+      }
+    }
   }
 }

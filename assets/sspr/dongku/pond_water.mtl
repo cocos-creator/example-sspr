@@ -4,16 +4,14 @@
   "_objFlags": 0,
   "_native": "",
   "_effectAsset": {
-    "__uuid__": "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+    "__uuid__": "99498f84-efe6-43a6-a9a7-e6e93eb845c1",
     "__expectedType__": "cc.EffectAsset"
   },
-  "_techIdx": "1",
+  "_techIdx": 0,
   "_defines": [
     {
       "USE_NORMAL_MAP": true
-    },
-    {},
-    {}
+    }
   ],
   "_states": [
     {
@@ -24,9 +22,7 @@
           {}
         ]
       }
-    },
-    {},
-    {}
+    }
   ],
   "_props": [
     {
@@ -39,8 +35,8 @@
       },
       "mainColor": {
         "__type__": "cc.Color",
-        "r": 134,
-        "g": 212,
+        "r": 184,
+        "g": 232,
         "b": 255,
         "a": 224
       },
@@ -52,8 +48,6 @@
         "__uuid__": "f2064227-e291-4154-8fd8-e60a27fe2c4d@6c48a",
         "__expectedType__": "cc.Texture2D"
       }
-    },
-    {},
-    {}
+    }
   ]
 }

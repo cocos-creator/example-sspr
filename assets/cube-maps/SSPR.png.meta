@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.21",
+  "ver": "1.0.22",
   "importer": "image",
   "imported": true,
   "uuid": "ad1602b1-6e50-4f3e-b618-aa80a3e85271",
@@ -8,29 +8,6 @@
     ".json"
   ],
   "subMetas": {
-    "6c48a": {
-      "importer": "texture",
-      "uuid": "ad1602b1-6e50-4f3e-b618-aa80a3e85271@6c48a",
-      "displayName": "SSPR",
-      "id": "6c48a",
-      "name": "texture",
-      "userData": {
-        "wrapModeS": "repeat",
-        "wrapModeT": "repeat",
-        "minfilter": "linear",
-        "magfilter": "linear",
-        "mipfilter": "linear",
-        "anisotropy": 0,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "ad1602b1-6e50-4f3e-b618-aa80a3e85271"
-      },
-      "ver": "1.0.21",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    },
     "b47c0": {
       "importer": "erp-texture-cube",
       "uuid": "ad1602b1-6e50-4f3e-b618-aa80a3e85271@b47c0",
